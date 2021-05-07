@@ -1,4 +1,2 @@
 # hackathon
 Code week
-
-Test
